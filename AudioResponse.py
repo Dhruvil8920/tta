@@ -4,5 +4,6 @@ a={
             "who are you":"i am alpha's personal ai",
             "what is the time right now":"why don't you look at in watch",
             "bye":"bye bye.",
-            "what is your favourite series":"my favourite series is friends."
+            "what is your favourite series":"my favourite series is friends.",
+            "sing a song":"no"
     }
