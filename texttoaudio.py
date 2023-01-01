@@ -5,7 +5,7 @@ from AudioResponse import a
 audio = 'speech.mp3'
 language = 'en'
 print("enter your text")
-b = input()
+b = "hello"
 c = a[b]
 Text = c
 sp = gTTS(text=Text, lang=language, slow=False)
