@@ -10,4 +10,4 @@ c = a[b]
 Text = c
 sp = gTTS(text=Text, lang=language, slow=False)
 sp.save(audio)
-playsound(audio)
+# playsound(audio)
