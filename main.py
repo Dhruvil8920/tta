@@ -1,4 +1,5 @@
 import texttoaudio
-with open(texttoaudio) as f:
-    f.read()
+f = open(texttoaudio)
+f.read()
+f.close()
 
